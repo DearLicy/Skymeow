@@ -48,7 +48,7 @@ skymeow/
 ### 前提条件
 
 *   一个正常运行的 https://wordpress.org/download/ 环境（建议 6.0 或更高版本）。
-*   PHP 7.4 或更高版本。
+*   PHP 8.0 或更高版本。
 
 ### 安装方法
 
